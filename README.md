@@ -1,8 +1,8 @@
-# Machine Learning Notebooks
+# Machine Learning With Sklearn and Tensorflow
 
 This repository contains Jupyter Python notebooks demonstrating some common  Machine Learning Python Models and algorithms. Notebooks contains example code to solve some real-world projects using scikit-learn and tensorflow. 
 
-Developers new to scikit-learn and tensorflow hopefully find them useful to improve their learning process by using real-world datasets.
+Developers new to scikit-learn and tensorflow may hopefully find them useful to improve their learning process by using real-world datasets.
 
 
 ## Getting Started
