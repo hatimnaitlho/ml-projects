@@ -3,7 +3,8 @@
 This repository contains Jupyter Python notebooks demonstrating some common  Machine Learning Python Models and algorithms. Notebooks contains example code to solve some real-world projects using scikit-learn and tensorflow. 
 
 Developers new to scikit-learn and tensorflow hopefully find them useful to improve their learning process by using real-world datasets.
----
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
