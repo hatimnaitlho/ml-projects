@@ -1,0 +1,24 @@
+name: ml-sklearn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - scikit-learn=0.22
+  - hdbscan
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - seaborn
+  - pillow
+  - pip
+  - graphviz
+  - pygraphviz
+  - pyamg
+  - jupyterlab
+  - joblib
+  - tensorflow=1.15 # or tensorflow-gpu if you have a GPU
+  - tensorboard=1.15
+  - tensorflow-estimator=1.15
