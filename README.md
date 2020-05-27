@@ -52,14 +52,14 @@ Another option is to download and install [Anaconda](https://www.continuum.io/do
 If you choose to use Anaconda, read the next section, or else jump to the [Using pip](#using-pip) section.
 
 ## Using Anaconda
-Once you have [installed Anaconda](https://docs.anaconda.com/anaconda/install/) (or Miniconda), you can run the following command:
+Once you have [installed Anaconda](https://docs.anaconda.com/anaconda/install/) , you can run the following command:
 
     $ conda env create -f environment.yml
 
-This will give you a conda environment named `mlbook`, ready to use! Just activate it and you will have everything setup
+This will give you a conda environment named `ml-sklearn`, ready to use! Just activate it and you will have everything setup
 for you:
 
-    $ conda activate mlbook
+    $ conda activate ml-sklearn
 
 You are all set! Next, jump to the [Starting Jupyter](#starting-jupyter) section.
 
