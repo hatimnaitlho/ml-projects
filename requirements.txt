@@ -1,0 +1,17 @@
+# See the installation instructions at https://github.com/hatimnaitlho/ml-sklearn
+# For Python 3.6+
+##### Core scientific packages
+jupyter
+pandas
+numpy
+matplotlib
+scipy
+
+#### Turn Python code into parallel computing mode 
+joblib
+
+#### Machine Learning packages
+scikit-learn
+
+##### Deep Learning packages
+tensorflow
